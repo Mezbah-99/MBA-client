@@ -1,0 +1,1 @@
+yarn add react-router-dom chart.js react-chart.js-2 react-hot-toast react-icons react-redux @reduxjs/toolkit axios sass country-state-city framer-motion protected-route-react
